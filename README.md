@@ -1,1 +1,1 @@
-# odin-sub-strings
+This is a project from The Odin Project to practice manipulating strings in Ruby
